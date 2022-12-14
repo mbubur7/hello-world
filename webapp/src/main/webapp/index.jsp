@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! Threedot world  </h1>
+<h1> Hello, Welcome to Threedot  Technologies !!! Threedot world  </h1>
 
